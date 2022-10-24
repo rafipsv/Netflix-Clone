@@ -1,16 +1,39 @@
-# netflix
 
-A new Flutter project.
+# Netflix Clone Using Flutter
 
-## Getting Started
+Here is my brand new flutter Project, which is Netflix Clone.
+Hope you guys will like this.
+Thanks for reading this❤️ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Roadmap
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+
+
+## Screenshots
+### HomePage
+
+![App Screenshot](https://github.com/rafipsv/Netflix-Clone/blob/master/assets/screenshots/HomePage.png?raw=true)
+
+### Coming Soon Page
+
+![App Screenshot](https://github.com/rafipsv/Netflix-Clone/blob/master/assets/screenshots/Coming%20Soon.png?raw=true)
+
+### Search Page
+
+![App Screenshot](https://github.com/rafipsv/Netflix-Clone/blob/master/assets/screenshots/Top%20Searches.png?raw=true)
+
+
+### Download Page
+
+![App Screenshot](https://github.com/rafipsv/Netflix-Clone/blob/master/assets/screenshots/Download%20Page.png?raw=true)
+
+
+### Video Details Page
+
+![App Screenshot](https://github.com/rafipsv/Netflix-Clone/blob/master/assets/screenshots/Video%20Details.png?raw=true)
+
+
